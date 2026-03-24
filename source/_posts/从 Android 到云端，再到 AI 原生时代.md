@@ -1,5 +1,5 @@
 ---
-title: 开启全栈视角：从 Android 到云端，再到 AI 原生时代
+title: 从 Android 到云端，再到 AI 原生时代
 date: 2026-03-24 10:04:42
 tags:
 ---
