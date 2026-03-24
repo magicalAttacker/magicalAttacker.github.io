@@ -21,7 +21,6 @@ tags:
 Android 开发早已过了“画UI”的阶段。在这里，我会分享：
 - **Kotlin 深度实践：** 探索协程（Coroutines）、流（Flow）以及 Kotlin Multiplatform (KMP) 的跨平台潜力。
 - **现代 Android 架构：** Jetpack Compose 的声明式 UI 革命，以及如何构建健壮的 MVVM/MVI 架构。
-- **性能优化：** 深入字节码底层，打磨丝滑的用户体验。
 
 ### ☁️ 服务器运维：构建稳固的基石
 没有后端支撑的端应用是孤岛。为了支撑业务，我们需要理解“云”的运作方式：
