@@ -6,6 +6,10 @@ tags:
 ---
 <div align="center">
   <h1>🏝️ Island</h1>
+  <div style="border: 1px solid #ddd; padding: 10px; background-color: #f9f9f9;">
+  点击访问
+  <a href="https://island.appengine.click" target="_blank">island</a>
+</div>
   <p><strong>AI 原生应用开发与发布平台</strong></p>
   <p>构建、发布、运行智能应用 — 一站式平台。</p>
 </div>
