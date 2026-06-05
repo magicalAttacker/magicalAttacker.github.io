@@ -18,33 +18,25 @@ tags:
 
 每个应用生来就具备 AI 能力。通过统一的插件契约，所有应用都拥有**屏幕阅读**与**屏幕操作**接口 — AI 智能体可以像人类一样理解界面、点击按钮、输入文字、导航页面。
 
-<p align="center">
-  <img src="agent_setting.png" alt="AI 智能体设置" width="80%" />
-</p>
+![智能体设置](agent_setting.png)
 
 ### 🖥️ 桌面体验
 
 应用运行在一个完整的桌面环境中：多窗口管理、底部 Dock 栏、顶部菜单栏、窗口最大化/最小化/还原 — 一切就像原生操作系统一样自然。
 
-<p align="center">
-  <img src="desktop.png" alt="桌面体验" width="80%" />
-</p>
+![桌面体验](desktop.png)
 
 ### 🏪 应用商店
 
 统一的发现与分发平台。浏览分类、查看详情、一键安装 — 让 AI 应用触手可及。
 
-<p align="center">
-  <img src="store.png" alt="应用商店" width="80%" />
-</p>
+![应用商店](store.png)
 
 ### ⚡ AI 编译器
 
 用对话的方式构建应用。向 AI 智能体描述你想要的，它会实时生成代码、流式输出思考过程、调用工具链 — 从想法到运行只需几分钟。构建完成后，一键发布到应用商店。
 
-<p align="center">
-  <img src="compiler.png" alt="AI 编译器" width="80%" />
-</p>
+![AI 编译器](compiler.png)
 
 ### 🔌 标准化插件契约
 
@@ -62,9 +54,7 @@ tags:
 
 应用不只是前端界面 — 还支持服务端逻辑，包括 API 路由、数据库集合、安装/卸载生命周期钩子。
 
-<p align="center">
-  <img src="runtime.png" alt="全栈应用运行时" width="80%" />
-</p>
+![全栈应用运行时](runtime.png)
 
 ### 🌍 国际化
 
